@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0937CAB1-E69C-41FC-9A98-23923FC4FA3E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Minimalist Itunes</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B3ADC05A950C736EFECC43606A9D7748BE77D76F</key>
+		<string>https://github.com/bz0wski/TestApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Minimalist Itunes.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B3ADC05A950C736EFECC43606A9D7748BE77D76F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bz0wski/TestApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3ADC05A950C736EFECC43606A9D7748BE77D76F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3ADC05A950C736EFECC43606A9D7748BE77D76F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

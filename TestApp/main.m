@@ -7,8 +7,9 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import "CustomMinimalistApplication.h"
 
 int main(int argc, const char * argv[])
 {
-    return NSApplicationMain(argc, argv);
+    return CustomMinimalistApplicationMain(argc, argv);
 }
